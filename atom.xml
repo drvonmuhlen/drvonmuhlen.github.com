@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://drvonmuhlen.github.com/drvonmuhlen/atom.xml" rel="self"/>
-  <link href="http://drvonmuhlen.github.com/drvonmuhlen/"/>
-  <updated>2011-12-31T16:36:31-08:00</updated>
-  <id>http://drvonmuhlen.github.com/drvonmuhlen/</id>
+  <title><![CDATA[Dr. Carlos A. von Muhlen]]></title>
+  <link href="http://drvonmuhlen.com/atom.xml" rel="self"/>
+  <link href="http://drvonmuhlen.com/"/>
+  <updated>2011-12-31T16:41:44-08:00</updated>
+  <id>http://drvonmuhlen.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Dr. Carlos A. von Muhlen]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[publicações]]></title>
+    <link href="http://drvonmuhlen.com/blog/2011/12/31/publicacoes/"/>
+    <updated>2011-12-31T16:40:00-08:00</updated>
+    <id>http://drvonmuhlen.com/blog/2011/12/31/publicacoes</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
 </feed>
