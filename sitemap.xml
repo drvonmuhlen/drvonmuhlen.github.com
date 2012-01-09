@@ -2,7 +2,7 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://drvonmuhlen.github.com/artigos-cientificos/</loc>
-        <lastmod>2012-01-08T17:26:44-08:00</lastmod>
+        <lastmod>2012-01-08T17:54:38-08:00</lastmod>
     </url>
     <url>
         <loc>http://drvonmuhlen.github.com/blog/archives/</loc>
@@ -14,10 +14,14 @@
     </url>
     <url>
         <loc>http://drvonmuhlen.github.com/casa/</loc>
-        <lastmod>2012-01-08T17:10:08-08:00</lastmod>
+        <lastmod>2012-01-08T17:50:28-08:00</lastmod>
     </url>
     <url>
         <loc>http://drvonmuhlen.github.com/</loc>
-        <lastmod>2012-01-08T16:55:13-08:00</lastmod>
+        <lastmod>2012-01-08T17:50:17-08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://drvonmuhlen.github.com/palestras/</loc>
+        <lastmod>2012-01-08T17:48:25-08:00</lastmod>
     </url>
 </urlset>
