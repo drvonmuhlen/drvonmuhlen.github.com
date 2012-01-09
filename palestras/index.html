@@ -9,7 +9,7 @@
   <meta name="author" content="von Muhlen design">
 
   
-  <meta name="description" content=" Palestras Os reumatismos: esses desconhecidos Recent Posts ">
+  <meta name="description" content="Palestras Os reumatismos: esses desconhecidos Tweet Recent Posts --> Latest Tweets Status updating... $.domReady(function(){ getTwitterFeed(" &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -80,6 +80,8 @@
       
         <div class="sharing">
   
+  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://drvonmuhlen.github.com/palestras/index.html" data-via="drvonmuhlen" data-counturl="http://drvonmuhlen.github.com/palestras/index.html" >Tweet</a>
+  
   
   
 </div>
@@ -94,12 +96,28 @@
 <aside class="sidebar">
   
     <section>
-  <h1>Recent Posts</h1>
+  <!-- <h1>Recent Posts</h1>
   <ul id="recent_posts">
     
-  </ul>
+  </ul> -->
 </section>
 
+
+<section>
+  <h1>Latest Tweets</h1>
+  <ul id="tweets">
+    <li class="loading">Status updating...</li>
+  </ul>
+  <script type="text/javascript">
+    $.domReady(function(){
+      getTwitterFeed("drvonmuhlen", 4, false);
+    });
+  </script>
+  <script src="/javascripts/twitter.js" type="text/javascript"> </script>
+  
+    <a href="http://twitter.com/drvonmuhlen" class="twitter-follow-button" data-show-count="false">Follow @drvonmuhlen</a>
+  
+</section>
 
 
 
